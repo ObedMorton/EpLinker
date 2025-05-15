@@ -33,3 +33,5 @@ It supports automatic episode number extraction from filenames or manual numberi
 > Enter the series title: The Example Show
 > Enter the season number: 1
 > Extract episode number from filename? (Y/N): Y
+> The_exampleshow - 10.mkv -> The Example Show - S01E10.mkv
+Done
