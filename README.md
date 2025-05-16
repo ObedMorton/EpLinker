@@ -17,7 +17,7 @@ It supports automatic episode number extraction from filenames or manual numberi
 
 ## Usage
 
-1. Run the script using Python
+1. Run via Python (ep_linker.py) or use the standalone EpLinker.exe — no setup required.
 2. Enter the required inputs:
    - Source folder with video files
    - Target folder where links should be created
